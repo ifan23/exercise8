@@ -1,0 +1,26 @@
+.border{ 
+    width: 1000px;
+    height: 100px;
+    border: 2px blue solid;
+    margin: 10px;
+    display: flex;
+}
+.square{ 
+    width:80px;
+    height: 80px;
+    background: blue;
+    margin:10px;
+    display: inline;
+}
+.square2{ 
+    width:80px;
+    height: 80px;
+    background: purple;
+    margin:10px;
+    display: inline;
+}
+
+#second{
+    background-color: red;
+ }
+
